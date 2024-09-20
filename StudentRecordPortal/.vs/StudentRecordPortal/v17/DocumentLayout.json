@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\services\\collegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:services\\collegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\repository\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:repository\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\repository\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:repository\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\data\\collegestudentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:data\\collegestudentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DELL1577/CollegeStudentRecordDB/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DELL1577/CollegeStudentRecordDB/True/SqlTable/dbo.Colleges.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\services\\icollegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:services\\icollegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|d:\\visual studio projects (training)\\studentrecordportal\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ACC01-2C43-4E11-83C6-2B083FF0C297}|StudentRecordPortal.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Colleges [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DELL1577/CollegeStudentRecordDB/True/SqlTable/dbo.Colleges.sql",
+              "ToolTip": "dbo.Colleges [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T08:17:29.152Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DELL1577/CollegeStudentRecordDB/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T12:18:24.196Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:52:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:39:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollegeService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\CollegeService.cs",
+              "RelativeDocumentMoniker": "Services\\CollegeService.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\CollegeService.cs",
+              "RelativeToolTip": "Services\\CollegeService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wCsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:39:44.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "College.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Models\\College.cs",
+              "RelativeDocumentMoniker": "Models\\College.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Models\\College.cs",
+              "RelativeToolTip": "Models\\College.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:27:26.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:27:54.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:52:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:29:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollegeRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\CollegeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CollegeRepository.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\CollegeRepository.cs",
+              "RelativeToolTip": "Repository\\CollegeRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:38:48.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollegeController.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Controllers\\CollegeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CollegeController.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Controllers\\CollegeController.cs",
+              "RelativeToolTip": "Controllers\\CollegeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:29:10.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:39:01.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IStudentRepository.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:39:09.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICollegeRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\ICollegeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICollegeRepository.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Repository\\ICollegeRepository.cs",
+              "RelativeToolTip": "Repository\\ICollegeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:38:39.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:33:22.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CollegeStudentDBContext.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Data\\CollegeStudentDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\CollegeStudentDBContext.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Data\\CollegeStudentDBContext.cs",
+              "RelativeToolTip": "Data\\CollegeStudentDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:26:39.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:42:53.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T03:34:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICollegeService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\ICollegeService.cs",
+              "RelativeDocumentMoniker": "Services\\ICollegeService.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\ICollegeService.cs",
+              "RelativeToolTip": "Services\\ICollegeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:39:29.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentService.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\StudentRecordPortal\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:39:38.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

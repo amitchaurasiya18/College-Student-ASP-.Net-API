@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College DashBoard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h2 id="welcome-message">Welcome, </h2>
+
+    <div class="dashboard-container">
+        <div class="college-summary-container">
+
+        </div>
+        <div class="college-buttons">
+            <button class="add-student">Add Student</button>
+            <button class="get-all-students">Get All Students</button>
+            <button class="get-student-by-roll">Get Student by Roll No.</button>
+            <button class="delete-student">Delete Students</button>
+            <button class="logout">Logout</button>
+        </div>
+        <div id="add-student-container" class="hidden">
+            <h3>Enter Student Details</h3>
+            <form id="add-student-form">
+                <input type="text" id="student-name" placeholder="Student Name" required><br/>
+                <input type="text" id="student-rollno" placeholder="Student Roll No." required><br/>
+                <input type="number" id="student-age" placeholder="Student Age" required><br/>
+                <input type="text" id="student-branch" placeholder="Student Branch" required><br/>
+                <input type="date" id="date-of-admission" placeholder="Date of Admission" required><br/>
+                <input type="email" id="student-email" placeholder="Student Email" required /><br/>
+                <!-- <input type="number" id="college-id" placeholder="College Id"><br> -->
+                <input type="submit" value="Add Student" />
+            </form>
+        </div>
+        <div id="get-all-students-container" class="hidden">
+            <table>
+                <thead>
+                    <th>Id</th>
+                    <th>Student Name</th>
+                    <th>Student Roll No.</th>
+                    <th>Student Age</th>
+                    <th>Student Branch</th>
+                    <th>Date of Admission</th>
+                    <th>Student Email</th>
+                    <th>College Id</th>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+        <div id="get-student-by-roll-container" class="hidden">
+            <form id="get-student-by-roll-form">
+                <input type="number" id="student-rollno-get" placeholder="Student Roll No."><br>
+                <input type="submit" value="Get Student" />
+            </form>
+            <table>
+                <thead>
+                    <th>Id</th>
+                    <th>Student Name</th>
+                    <th>Student Roll No.</th>
+                    <th>Student Age</th>
+                    <th>Student Branch</th>
+                    <th>Date of Admission</th>
+                    <th>Student Email</th>
+                    <th>College Id</th>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+        <div id="delete-student-container" class="hidden">
+            <form id="delete-student-form">
+                <input type="number" id="student-id-delete" placeholder="Student Id"><br>
+                <input type="submit" value="Delete Student" />
+            </form>
+        </div>
+    </div>
+    <script src="collegeDashboard.js"></script>
+</body>
+
+</html>
